@@ -1,0 +1,9 @@
+#root {
+    font-size: 28px;
+    color: red;
+    background: url(./WechatIMG53.jpeg);
+    display: flex;
+}
+.no-used {
+    color: #fff
+}
